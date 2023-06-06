@@ -1,0 +1,7 @@
+- git push
+- git add 
+- git commit -m "COMMIT MESSAGE"
+- git clone
+- git status 
+- git log
+- git log --oneline
